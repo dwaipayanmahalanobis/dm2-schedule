@@ -17,7 +17,9 @@ Class timetable, attendance and deadlines app for Great Lakes DM2. Works on **PC
 6. [Daily use](#6-daily-use)
 7. [Good to know](#7-good-to-know)
 8. [Something not working?](#8-something-not-working)
-
+9. Contact me: 
+      Email - dwaipayanmahalanobis@gmail.com
+      Linkedin - Dwaipayan Mahalanobis
 ---
 
 ## 1. Install on Mobile
